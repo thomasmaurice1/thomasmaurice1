@@ -1,8 +1,17 @@
 # Hi there, I'm Thomas Maurice
 
-## I'm a 22 years old French Engineering living in Barcelona
+## I'm a 24 years old French Engineering living in Paris
 
-- I'm currently working as a Junior FullStack Developer at [Bsport](https://pro.bsport.io/fr/home/)
+With my associate Louis Leenhardt, we co-founded [Pacha](https://getpacha.com) a startup in the field of procurement. It was a SaaS helping procurement teams to manage indirect spend.
+
+The prototype had these features :
+
+- User management and authentification
+- Custom intake forms creation with a no-code builder (using the awesome [ReactFlow](https://reactflow.dev/) library)
+- Vendor management
+  
+During my gap year, I was working as a Junior FullStack Developer at [Bsport](https://pro.bsport.io/fr/home/)
+
 - My work at Bsport:
   - Taking part in the sprint :running: 
   - Developping features for the backoffice :star2:
@@ -19,7 +28,7 @@
 <img style='margin:16px' alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img style='margin:16px' alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
 <img style='margin:16px' alt="typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"/>
-<img style='margin:16px' alt="CSS3" width="26px" src="https://camo.githubusercontent.com/92ec9eb7eeab7db4f5919e3205918918c42e6772562afb4112a2909c1aaaa875/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313630373535343338352f7265706f7369746f726965732f6e6578742d6a732f6e6578742d6c6f676f2e706e67"/>
+<img style='margin:16px' alt="CSS3" width="26px" src="https://billing.flourisense.in/wp-content/uploads/2022/11/css3.png"/>
 <img style='margin:16px' alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"/>
 <img style='margin:16px' alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
 <img style='margin:16px' alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"/>
