@@ -35,11 +35,8 @@ During my gap year, I was working as a Junior FullStack Developer at [Bsport](ht
 <img style='margin:16px' alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"/>
 <img style='margin:16px' alt="postgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"/>
 <img style='margin:16px' alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img style='margin:16px' alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>
 <img style='margin:16px' alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
-<img style='margin:16px' alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
-
-
+<img style='margin:16px' alt="NextJs" width="26px" src="https://logowik.com/content/uploads/images/nextjs7685.logowik.com.webp"/>
 </div>
 
 ## Connect with me
